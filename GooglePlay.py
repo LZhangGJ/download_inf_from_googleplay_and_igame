@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar 14 16:47:13 2022
-
+for bd report 
 @author: lzhang
 """
 from selenium import webdriver
