@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar 22 14:16:33 2022
-
-@author: DHU_Z
+for BD report 
+@author: LZHANG 
 """
 
 from selenium import webdriver
